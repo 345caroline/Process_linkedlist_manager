@@ -13,6 +13,7 @@ typedef struct process
   int priority;        // Process priority
   double processorTime;  // Time the process spends on the processor
 } DATA_TYPE;
+```
 
 ## Core Features
 
