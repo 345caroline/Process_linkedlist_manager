@@ -1,6 +1,6 @@
 # Process LinkedList Manager
 
-The `process_linkedlist_manager.c` program is designed for managing a linked list of processes, where each process is represented as a node containing specific data attributes related to process management. This program is an enhanced version of a basic linked list input/output manager, tailored to handle process data efficiently.
+The `process_linkedlist_manager.c` program is designed for managing a linked list of processes, where each process is represented as a node containing specific data attributes related to process management. This program is an enhanced version of a basic linked list input/output manager.
 
 ## Data Structure
 
